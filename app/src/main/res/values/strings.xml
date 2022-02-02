@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-Commers</string>
+    <string name="logo">Погода в ввашем в городе</string>
+    <string name="hint_user_field">Укажите город</string>
+    <string name="main_btn">Узнать погоду</string>
+    <string name="noText">Введите город</string>
+</resources>
+
+
+
+
